@@ -1,11 +1,16 @@
-import React from "react";
+import React from "react"
+import styled from "styled-components";
+import axios from "axios";
 
 
-export default ()=>{
-    return(
-        <>
-        
-        </>
-
-    )
+const Pokedex = () => {
+  
+  return (
+    <>
+       <h1>Pokedex</h1>
+       <button onClick>lista de pokemons</button>
+    </>
+  )
 }
+
+export default Pokedex
