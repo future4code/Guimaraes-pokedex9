@@ -50,7 +50,8 @@ const ContainerPricipal=styled.div`
         font-size:13pt ;
     }
 `
-export default ()=>{
+// export default ()=>{
+const PageDetalhes = () => {      
     const [pokemons,setPokemons]=useState([])
     const param=useParams()
     useEffect(()=>{
@@ -163,3 +164,5 @@ export default ()=>{
 
     )
 }
+
+export default PageDetalhes;
