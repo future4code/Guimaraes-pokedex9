@@ -1,15 +1,17 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Edson
+- Leonardo
+- Jucélia
 
 Link do Surge: https://jaded-egg.surge.sh/
 
 O que funciona:
-- Item 1
-- Item 2
+- página de detalhes
+- paginação
+Homepage
+
 
 O que não funciona: 
 - Item 3
